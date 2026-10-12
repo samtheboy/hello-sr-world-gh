@@ -1,0 +1,10 @@
+# macOS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Build output
+target/
+node_modules/
